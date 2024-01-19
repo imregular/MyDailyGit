@@ -2,10 +2,10 @@
 
 
 
-export function Dashboard(){
+export default function Dashboard(){
     return(
     <div>
-        Dashboard
+        Dashboard  page
     </div>
     )
 }
